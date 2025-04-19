@@ -1,0 +1,3 @@
+D:/Users/Soso/CLionProjects/OctoVerso/cmake-build-debug/CMakeFiles/OctoVerso.dir
+D:/Users/Soso/CLionProjects/OctoVerso/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Soso/CLionProjects/OctoVerso/cmake-build-debug/CMakeFiles/rebuild_cache.dir
